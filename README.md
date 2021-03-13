@@ -1,4 +1,4 @@
-# 🛠 subgraph-finder
+# 🛠 subgraph-finder (https://github.com/vub/subgraph-finder)
 ## 🚢 Status
 - ❎ Project init from [nodets-playground](https://github.com/vub/nodets-playground)
 - ❎ Node tree
